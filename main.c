@@ -1,7 +1,8 @@
-// Author: Siddhartha Kollati
-// Collaborator:
-// Collaborator:
-// Collaborator:
+// Author: Siddhartha Kollati, szk6147@psu.edu
+// Collaborator: Devyani Patra, dzp5383@psu.edu
+// Collaborator: Farraj Siddique, fas5225@psu.edu
+// Collaborator: Xiangyi Zheng, xvz5396@psu.edu
+// Collaborator: David Chew, dcc5480@psu.edu
 // Section: 2
 // Breakout: 2
 #include <stdio.h>
